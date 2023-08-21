@@ -1,0 +1,13 @@
+.home__image{
+    width: 100%; /*Snpas everything into the viewpoint and it si responsive*/
+    z-index: -1; /*Has to be behind anythign else*/
+    margin-bottom: -150px; /*Eleemtns adter the banner can creep into this**/
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,1),rgba(0,0,0,0));
+    /*Go from top to bottom and from opaque to transparent as we go down*/
+}
+
+
+
+
+
+
