@@ -1,0 +1,16 @@
+.header{
+    height: 60px;
+    display: flex;
+    align-items: center;
+    background-color: #131921; /*amazon navbar background color*/
+    position: sticky; /*Even when we scroll down the navbar sticks to its position ont he screen*/
+    top: 0; /*It has no vertival offset from it sparent ones*/
+    z-index: 100; /*Specifies which should be on top it is for stacking of elements*/
+}
+
+.header__logo{
+    width: 100px;
+    object-fit: contain; /*Maintsins iits aspect ratio*/
+    margin: 0 20px;
+    margin-top: 18px;
+}
