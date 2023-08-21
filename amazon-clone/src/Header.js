@@ -10,7 +10,7 @@ function Header() {
         
         <div className="header__search">
           <input type="text" className="search__input" />
-          <SearchIcon></SearchIcon>
+          <SearchIcon className='header__searchIcon'></SearchIcon>
         </div>
 
         <div className="header__nav">
