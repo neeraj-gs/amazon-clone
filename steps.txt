@@ -1,0 +1,14 @@
+Amazon Clone
+    With All E-commerce functionalities and with some extra functionalities
+    Basic Steps followed by creating the project
+
+    1.Getting Setup Ready 
+        npx create-react-app amazon-Clone
+            Creates a startign tempalte for a development Setup
+    2.Connecting Firebase
+        Create a new project, install firebase-tools into project
+        Take the config file and craete a file firebase.js in src and then add it there
+            Config file is used to connect frontend and backend 
+    3.Clean up the code and then get ready with the starter template 
+    
+        
