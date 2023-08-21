@@ -59,3 +59,14 @@
     font-weight: 800;
 }
 
+.header__optionBasket{
+    display: flex;
+    align-items: center;
+    color: white;
+    
+}
+
+.header__cartItems{
+    margin-left: 8px;
+    margin-right: 8px;
+}
