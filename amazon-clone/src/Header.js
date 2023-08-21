@@ -2,6 +2,7 @@ import React from 'react'
 import "./Header.css"
 import HeaderLogo from "./assets/Logo.png"
 import SearchIcon from '@mui/icons-material/Search';
+import ShoppingBasketIcon from '@mui/icons-material/ShoppingBasket';
 
 function Header() {
   return (
@@ -39,6 +40,9 @@ function Header() {
               Prime
             </span>
             
+          </div>
+          <div className="header__optionBasket">
+            <ShoppingBasketIcon />
           </div>
 
         </div>
