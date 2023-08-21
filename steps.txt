@@ -10,5 +10,8 @@ Amazon Clone
         Take the config file and craete a file firebase.js in src and then add it there
             Config file is used to connect frontend and backend 
     3.Clean up the code and then get ready with the starter template 
-    
+
+    4.Start by building each component one by one 
+        1.Header or a Nav Bar 
+        2.
         
